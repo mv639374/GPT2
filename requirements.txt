@@ -1,0 +1,15 @@
+numpy
+pandas
+tensorflow
+keras
+matplotlib
+ucimlrepo
+ipykernel
+torch
+torch-vision
+seaborn
+scikit-learn
+tensorflow-hub
+tensorflow-text
+gensim
+tiktoken
