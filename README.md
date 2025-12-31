@@ -2,7 +2,7 @@
 
 ## A picture is worth of thousands of words
 
-<img src="assets/GPT2.jpeg" alt="GPT-2 Architecture" style="max-width: 15cm; max-height: 30cm; width: auto; height: auto;">
+<img src="data/assets/GPT2.jpeg" alt="GPT-2 Architecture" style="max-width: 15cm; max-height: 30cm; width: auto; height: auto;">
 
 ## Overview
 
